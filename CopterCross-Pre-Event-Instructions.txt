@@ -1,0 +1,14 @@
+Pre-Event
+
+  Contract Stuff
+    1) Verbal Agreement
+    2) Contract Sent
+    3) Contract Signed
+    4) Down Payment
+
+  Venue
+    1) Location Identified
+    2) Location Confirmed
+    3) Permissions and Insurance
+    4) Signed Contract 
+    5) Down Payment
