@@ -1,0 +1,11 @@
+Post-Event
+
+  Contract
+    1) Send invoice (with applicable surcharges)
+    2) Collect Final Payment 
+    3) Send confirmation of payment receipt to client
+    4) Send hand written thank you note(s) to client(s)
+
+  Venue
+    1) Final Payment
+    2) Thank you note
