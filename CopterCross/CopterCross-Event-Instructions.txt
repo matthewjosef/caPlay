@@ -139,6 +139,31 @@ Welcome
      Map words to controls?
      Map controls to motion?
 
+
+
+INTRO TO VOCAB
+Yaw       -     Rotate Clockwise / Counter Clockwise
+Pitch     -     Forward / Backward
+Roll      -     Right / Left
+Uplift    -     Fly Up
+Downfall  -     Fly Down
+
+
+COMMANDS
+Yaw Right         -   rotate Clockwise 
+Yaw Left          -   rotate Counter Clockwise
+
+Pitch Forward     -   forward 
+Pitch Backward    -   backward
+
+Roll Right        -   move right 
+Roll Left         -   move left
+
+Uplift            -   fly up
+Downfall          -   fly down
+
+
+
 FLASH CARD GAME:
 CONTROLS
 
@@ -229,26 +254,8 @@ _______________________________________________
 
 **"PITCH FORWARD"**
 
-INTRO TO VOCAB
-Yaw       -     Rotate Clockwise / Counter Clockwise
-Pitch     -     Forward / Backward
-Roll      -     Right / Left
-Uplift    -     Fly Up
-Downfall  -     Fly Down
+etc.
 
-
-COMMANDS
-Yaw Right         -	  rotate Clockwise 
-Yaw Left          -   rotate Counter Clockwise
-
-Pitch Forward     -   forward 
-Pitch Backward    -   backward
-
-Roll Right        -	  move right 
-Roll Left         -   move left
-
-uplift            -   fly up
-downfall          -   fly down
 
 
 
@@ -256,6 +263,103 @@ downfall          -   fly down
        Pilot / Co-Pilot practice
        builds intuitive understanding of copter movements
        reinforces language lessons
+
+Example 1:
+Co-Pilot is holding Flash Card: 
+
+|=================================================================================
+|                                                                                 |    
+|   1)  Co-Pilot crouches down and says: "Uplift"                                 |                         
+|                                                                                 |   
+|   2)  Pilot moves Elevator (left stick) Up.                                     |                                         
+|       (Show Pilot Drawing below if needed.)                                     |                                       
+|                                                                                 |                           
+|     _______________________________________________                             |                                                 
+|     |  __________________________________________  |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |__________________________________________| |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |          |                                   |                            |                                                   
+|     |          |                                   |                            |                                                   
+|     |          o                      o            |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |______________________________________________|                            |
+|                                                                                 |
+|                                                                                 |  
+|   3)  Co-Pilot: Stands Up.                                                      |
+|                                                                                 |                                                   
+|==================================================================================
+
+
+
+Example 2:
+Co-Pilot is holding Flash Card:
+
+|=================================================================================
+|                                                                                 |    
+|   1)  Co-Pilot is standing and says: "Pitch Forward"                            |                         
+|                                                                                 |   
+|   2)  Pilot moves Throttle (right stick) Up.                                    |                                         
+|         (Show Pilot Drawing below if needed.)                                   |                                       
+|                                                                                 |   
+|     _______________________________________________                             |                                                 
+|     |  __________________________________________  |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |                                          | |                            |                                                   
+|     | |__________________________________________| |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                 |            |                            |                                                   
+|     |                                 |            |                            |                                                   
+|     |          o                      o            |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |                                              |                            |                                                   
+|     |______________________________________________|                            |                                                   
+|                                                                                 |                           
+|                                                                                 |                           
+|   3)  Co-Pilot: Walks forward.                                                  |                           
+|                                                                                 |                                                   
+|==================================================================================
+
+etc.
+
+
+6) Powering On and Syncing
+   
+
+
+
+
+7) Trim Adjusment
+   
+
+
+
 
 6) Crawling
     Rotating on the ground, without leaving the ground. Repeat 3 Times.
