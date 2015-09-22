@@ -1,6 +1,28 @@
 Event Instructions
 
 Set Up
+-Maybe hand out laser pointers (with tripod, or weighted bases) that point straight up.  Giving teams a target to hit (or fly around) during skill building exercises (the light beam column).  Could even have tied to string or something so that they are spaced apart the right amount.  
+
+Five laser pointers per team.  Four Red. One Blue or Green.
+
+Could put in two patterns:
+
+1) a straight line, evenly spaced apart -- to help pilots build skills with judging distance for stopping, reaching a point, etc.  Can start with them 3 feet apart, and as pilots get better, move them closer and closer to together -- until they are finally 6 inches apart and the pilot is trying to hit the third light column, but not the fourth.
+
+2) an X pattern, with Red on the ends of the X and Blue/Green in the middle of the X.
+
+3) Green / Blue at Origin and Red columns surrounding "target zone" (That allows the target zone to be larger than just the size of the quad copter)
+
+Some URLs for Laser Pointers:
+http://www.ebay.com/itm/3pcs-1mW-Powerful-Laser-Pointer-Pen-Beam-Light-Green-Red-Blue-violet-High-Power-/321400822143?hash=item4ad4fb597f
+
+http://www.ebay.com/itm/Utility-Green-Laser-Pointer-Copper-Pen-Beam-Light-5mW-Lazer-High-Power-532nm-/311385709384?hash=item488008db48
+
+http://www.ebay.com/itm/Hot-Sale-5mw-650nm-Powerful-Military-Visible-Light-Beam-Red-Laser-Pointer-Pen-/331549265842?hash=item4d31e04fb2
+
+http://www.ebay.com/itm/Green-Laser-Pointer-Copper-Pen-Beam-Light-Beam-Light-Utility-High-Power-532nm-/191647854491?hash=item2c9f1a2f9b
+
+====
 
 
 Guest Arrival
@@ -8,34 +30,106 @@ Guest Arrival
 
 Welcome
 
+- First Rule of CopterCross: Breath.
+- Second Rule of CopterCross: Be Gentle and Slow. 
+- Third Rule of CopterCross: Throttle down if you lose control
 
 1) Partner Up
    Instructions for how Pilot/Co-Pilot teams work together:
    Co-Pilot reads instructions and acts as a second set of eyes.
    Pilot flies Copter.
+   Each person will take turns playing both roles.
 
    Find a buddy team!
-   These are your go-to people for questions, problems etc. 
+   These are your go-to people for questions, problems etc.  
+   They will also be the first team that you compete against during your skill builder exercizes.
    Plus, during the main event, they are going to be your partners in the relay race.
 
-2) Safety
-   blades are sharp!
-   rotor guards
-   picking up a copter
-      1) communication with pilot 
-        P: Good to Grab!
-        CP: Grabbing! 
-      2) how to pick up a Copter without hurting it or yourself
+   You will compete against them.  Then you will compete with them.
 
-3) Batteries (and battery maintenance)
-   Include Battery Practice
-   + Battery cheat sheet
-   cheat sheet should include voice commands (a la rock climbing) such as:
-   *Charging!*
-   *Green Bag*
-   *Red Bag*
+2) INTRO TO THE EQUIPMENT
 
-   as well as instructions for "batteries that have been used (at all) go in the red bag" and "Fully charged batteries go in the green bag"
+   QUADCOPTER
+   (need a diagram. copy from instructions)
+
+   1) Body
+   2) Arms
+   3) Motors
+   4) Rotors
+   5) Rotor Guard
+   6) QC Power Cable
+   7) Battery and Battery Cable
+
+   CONTROLLER
+   (need a diagram. copy from instructions)
+
+   1) On/Off switch
+   2) Elevator 
+   3) Throttle
+   4) Elevator Trim
+   5) Throttle Trim
+   6) Screen 
+   etc.
+
+3) SAFETY THIRD!
+
+   BLADES 
+   At these speeds, blades are sharp!
+   
+   Do not fly near other people.  
+   Do not try to pick up copter while blades are spinning.  
+   Do not try to catch copter in the air.  
+   Rotor guards help minimize the likelihood of injury
+
+          How to pick up a Copter without hurting it or yourself
+          a) Pilot (P): Move elevator to the down position, then say: 
+                    ["ELEVATOR DOWN"]
+          
+          b) P: Set down the controller, then say: 
+                    ["CONTROLLER DOWN"]
+          
+          c) P: Take hands off controller, then say:
+                    ["GOOD TO GRAB"]
+
+          d) Co-Pilot (CP): Say 
+                    ["GRABBING!]"
+
+          e) CP: Grab QuadCopter BY THE BODY. 
+                                       Not by the arms. 
+                                       Not by the rotors.
+
+   BATTERIES
+   Batteries only last for 5-7 minutes of flight time.
+   You will have to change batteries repeatedly during this exercise.
+
+   Use the Battery Changing Cheat Sheet each time.
+
+   1) Turn Controller OFF
+
+   2) DETACHING a battery from the QuadCopter
+      A) Breath!
+      B) Be gentle.  If you are too rough here, you can strip the connector off of the electrical wires, thus breaking the quadcopter and disqualifying your team from the race.
+      C)  Pinch on the edges of the connection and carefully pull the connection apart.
+
+   3) Place used battery on Charger. Make sure that the RED charging light turns on.  If the charger has no room for the battery (or if the event ends before batteries are fully charged), place the un(der)-charged batteries in the RED BAG.
+
+   4) Move any extra FULLY CHARGED batteries from the CHARGER to the GREEN BAG.
+
+   5) Take one FULLY CHARGED battery out of the green bag for use in the QuadCopter.
+
+   6) CONNECTING a battery to the QuadCopter
+      1) Breathe!
+      2) Be gentle.   If you are too rough here, you can bend the pins on the connection, thus breaking the quad copter, and disqualify your team from the race.
+
+   BATTERY CHEAT SHEET
+   ( ) P: Controller OFF ["CONTROLLER OFF"]
+   ( ) CP: Gently DETACH Battery cable ["DETACHED"]
+   ( ) CP: Gently Remove Battery
+   ( ) CP: Place Battery on Charger (or in RED BAG) ["CHARGING"]
+   ( ) CP: Extra Charged Batteries go in GREEN BAG.
+   ( ) P: Gently CONNECT New Battery to Copter
+   ( ) P: Place Battery in Copter
+   ( ) P: Twist and Tuck Cable Attachment ["BATTERY READY"]     
 
 4) Language!
      Fun Drills for pilot/co-pilot communication
@@ -45,13 +139,133 @@ Welcome
      Map words to controls?
      Map controls to motion?
 
-5) Be the Copter (Physically)
+FLASH CARD GAME:
+CONTROLS
+
+Image of two sticks.  
+_______________________________________________
+|  __________________________________________  |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |__________________________________________| |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|          o                      o            |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|______________________________________________|
+
+
+
+
+
+_______________________________________________
+|  __________________________________________  |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |__________________________________________| |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|          |                                   |
+|          |                                   |
+|          o                      o            |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|______________________________________________|
+
+**"UPLIFT"**
+
+
+
+
+_______________________________________________
+|  __________________________________________  |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |                                          | |
+| |__________________________________________| |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|                                 |            |
+|                                 |            |
+|          o                      o            |
+|                                              |
+|                                              |
+|                                              |
+|                                              |
+|______________________________________________|
+
+**"PITCH FORWARD"**
+
+INTRO TO VOCAB
+Yaw       -     Rotate Clockwise / Counter Clockwise
+Pitch     -     Forward / Backward
+Roll      -     Right / Left
+Uplift    -     Fly Up
+Downfall  -     Fly Down
+
+
+COMMANDS
+Yaw Right         -	  rotate Clockwise 
+Yaw Left          -   rotate Counter Clockwise
+
+Pitch Forward     -   forward 
+Pitch Backward    -   backward
+
+Roll Right        -	  move right 
+Roll Left         -   move left
+
+uplift            -   fly up
+downfall          -   fly down
+
+
+
+5) Be the Copter
        Pilot / Co-Pilot practice
        builds intuitive understanding of copter movements
        reinforces language lessons
 
 6) Crawling
-    Rotating on the ground, without leaving the ground.
+    Rotating on the ground, without leaving the ground. Repeat 3 Times.
+    Forward, then back to origin, without leaving the ground. Repeat 3 Times.
+    Backward, then back to origin, without leaving the ground. Repeat 3 Times.
+    Right, then back to origin, without leaving the ground. Repeat 3 Times.
+    Left, then back to origin, without leaving the ground. Repeat 3 Times.
+
+Skill Builder Head-to-Head
+    Compete with 
 
 7) Baby Steps
     Take off, reach 3 inches, hover, land.  Repeat 3 times.
@@ -77,7 +291,7 @@ Welcome
             Land
     switch
 
-8) Walking Forward
+8) Walking Forward & Backward
     Take off, 
     hover at 3 feet.
     Fly forward 5 feet.
@@ -105,17 +319,66 @@ Welcome
 
     switch
 
-10) Front, Back and Side-to-Side
+10) Rotating
 
-11) Diagonals
+   Take off
+   Rotate to 10 o'clock
+   Fly forward and back to the origin.
+   Hover
+   Take off
+   Rotate to 2 o'clock
+   
+   Repeat 3 times
+   
+   switch
+  
+11) Nose-In Walking Forward and Backward (Hard)
+   Face nose towards pilot. 
+      Right will be left. Backwards will be forwards
+      Like balancing a stick. Whatever direction quad goes, stick goes
+   
+   Take off, 
+      hover at 3 feet.
+    Fly forward 5 feet.
+    hover.
+    fly backward to origin.
+    hover.
+    land.
 
-12) Rotating
+Repeat 3 times
 
-13) Banking
+    switch
 
-14) Figure 8's
+11) Nose-In Walking Side-to-Side (Hard)
+   Face nose towards pilot. 
+      Right will be left. Backwards will be forwards
+      Like balancing a stick. Whatever direction quad goes, stick goes
+      
+    Take off, 
+    hover at 3 feet.
+    Fly left 5 feet.
+    hover.
+    fly right to origin.
+    hover.
+    fly right 5 feet.
+    hover.
+    fly left to origin.
+    hover.
+    land.
 
-15) Flips
+    Repeat 3 times.
+
+    switch
+
+13) Walking with Scissors: Banking
+   Start going forward, about 5 mph
+   Apply small amount of aileron.
+   Continuously pull up on elevator
+   Continuously apply yaw. 
+
+14) Walking with Scissors: Figure 8's
+
+15) Walking with Scissors: Flips
 
 16) Fly by Screen
     Pilot / Co-Pilot collaboration
