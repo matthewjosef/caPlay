@@ -60,7 +60,7 @@ Welcome
    6) QC Power Cable
    7) Battery and Battery Cable
 
-   CONTROLLER
+   TRANSMITTER
    (need a diagram. copy from instructions)
 
    1) On/Off switch
@@ -85,10 +85,10 @@ Welcome
           a) Pilot (P): Move elevator to the down position, then say: 
                     ["ELEVATOR DOWN"]
           
-          b) P: Set down the controller, then say: 
-                    ["CONTROLLER DOWN"]
+          b) P: Set down the transmitter, then say: 
+                    ["TRANSMITTER DOWN"]
           
-          c) P: Take hands off controller, then say:
+          c) P: Take hands off transmitter, then say:
                     ["GOOD TO GRAB"]
 
           d) Co-Pilot (CP): Say 
@@ -104,7 +104,7 @@ Welcome
 
    Use the Battery Changing Cheat Sheet each time.
 
-   1) Turn Controller OFF
+   1) Turn Transmitter OFF
 
    2) DETACHING a battery from the QuadCopter
       A) Breath!
@@ -122,14 +122,18 @@ Welcome
       2) Be gentle.   If you are too rough here, you can bend the pins on the connection, thus breaking the quad copter, and disqualify your team from the race.
 
    BATTERY CHEAT SHEET
-   ( ) P: Controller OFF ["CONTROLLER OFF"]
+   ( ) P: Controller OFF ["TRANSMITTER OFF"]
    ( ) CP: Gently DETACH Battery cable ["DETACHED"]
    ( ) CP: Gently Remove Battery
-   ( ) CP: Place Battery on Charger (or in RED BAG) ["CHARGING"]
+   ( ) CP: Connect Battery to Charger (or in RED BAG) ["CHARGING"]
    ( ) CP: Extra Charged Batteries go in GREEN BAG.
+   ( ) P: Throttle Stick DOWN
+   ( ) P: Power ON Controller
    ( ) P: Gently CONNECT New Battery to Copter
    ( ) P: Place Battery in Copter
-   ( ) P: Twist and Tuck Cable Attachment ["BATTERY READY"]     
+   ( ) P: Twist and Tuck Cable Attachment ["BATTERY READY"]
+   ( ) P: Pairing: Beep, Red Light turns Green, 6 Copter lights lit steadily 
+  
 
 4) Language!
      Fun Drills for pilot/co-pilot communication
@@ -350,16 +354,26 @@ etc.
 
 
 6) Powering On and Syncing
-   
+ 
+   1) Throttle Stick DOWN
+   2) Power ON Controller
+   3) Gently CONNECT New Battery to Copter
+   4) Place Battery in Copter
+   5) Twist and Tuck Cable Attachment ["BATTERY READY"]
+   6) Pairing: 
+      - Beep
+      - Red Light turns Green
+      - Copter lights lit steadily 
 
 
 
 
 7) Trim Adjusment
-   
-
-
-
+   (need a diagram. copy from instructions)
+   - Roll Trim (aileron trim) adjusts for left and right drift
+   - Pitch Trim (elevator trim) adjusts for forward and backward drift
+   - Yaw Trim (rudder trim) adjusts for rotational drift
+   - Trottle Trim normally left at neutral. Lower trim turns LEDs on/off
 
 6) Crawling
     Rotating on the ground, without leaving the ground. Repeat 3 Times.
@@ -483,6 +497,13 @@ Repeat 3 times
 14) Walking with Scissors: Figure 8's
 
 15) Walking with Scissors: Flips
+   Press Elevator stick down to enter Expert Mode
+   Press the Throttle stick to enter Flip Mode (two beeps). Push again to exit (one beep).
+   
+   Left Flip: Quickly push Aileron stick fully to right -- then fully to left. Release stick.
+   Right Flip: Quickly push Aileron stick fully to left -- then fully to left. Release stick.
+   Forwad Flip: Quickly push Elevator stick fully backward -- then fully forward. Release stick.
+   Backward Flip: Quickly push Elevator stick fully forward -- then fully backward. Release stick.
 
 16) Fly by Screen
     Pilot / Co-Pilot collaboration
