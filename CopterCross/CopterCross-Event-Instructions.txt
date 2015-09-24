@@ -349,29 +349,56 @@ Co-Pilot is holding Flash Card:
 etc.
 
 
-6) Powering On and Syncing
-   
+6) Set to "Mode 2" and Calibrate Transmitter
+   (you should only need to do this once)
+   We are going to set the Transmitter to Mode 2.
+   1) P: Hold both sticks to the upper left (if this were a compass, they would point NorthWest)
+   2) P: Turn Power On (by moving the ON/OFF switch up)
+   3) P: Rotate both sticks around in a clockwise circle, two times.
+   4) P: Let the sticks go (they should be centered)
+   5) P: Hold down any TRIM button for 2 seconds.
+   6) Transmitter will read "System Initializ"
+
+7) Pre-Flight Inspection
+   - CP: Rotor Blades Check (no broken parts, hair etc)
+   - CP: Rotor Guard Check (if guard is blocking a prop, bend it out to unblock)
+
+8) Powering On and Connecting
+   - P:  Turn on Transmitter (will read "Bind to Plane")
+   - P:  Throttle Down
+   - CP: Attach Copter Battery.
+   - CP: Secure Battery in Battery Compartment. Twist wires and tuck them away.
+   - Transmitter will beep and screen will show camera view
+   - P: say "Ready to Fly"
 
 
+9) Trim Adjustment
+   - Power Elevator slightly
+   - Observe any drift in the copter
+   - Use the Trim Buttons to adjust:
+        - Yaw 
+        - Pitch
+        - Roll
+ {NEED IMAGE OF TRIM BUTTONS}
+
+10) Crawling
+    Yaw Right on the ground, without leaving the ground. Repeat 3 Times.
+    Yaw Left on the ground, without leaving the ground. Repeat 3 Times.
+    Pitch Forward, then Pitch Backward to origin, without leaving the ground. Repeat 3 Times.
+    Pitch Backward, then Pitch Forward to origin, without leaving the ground. Repeat 3 Times.
+    Roll Right, then Roll Left to origin, without leaving the ground. Repeat 3 Times.
+    Roll Left, then Roll Right to origin, without leaving the ground. Repeat 3 Times.
 
 
-7) Trim Adjusment
-   
+** Skill Builder Challege 1: Crawling **
+    Compete with your buddy team.  
+    Fly one route, switch Pilot / Co-Pilot
+    Fly route again.
+    First Team to finish wins the challenge
+    Mark Winner on Challenge Board
 
 
-
-
-6) Crawling
-    Rotating on the ground, without leaving the ground. Repeat 3 Times.
-    Forward, then back to origin, without leaving the ground. Repeat 3 Times.
-    Backward, then back to origin, without leaving the ground. Repeat 3 Times.
-    Right, then back to origin, without leaving the ground. Repeat 3 Times.
-    Left, then back to origin, without leaving the ground. Repeat 3 Times.
-
-Skill Builder Head-to-Head
-    Compete with 
-
-7) Baby Steps
+11) Baby Steps: Vertical Flight
     Take off, reach 3 inches, hover, land.  Repeat 3 times.
     switch
 
@@ -395,7 +422,7 @@ Skill Builder Head-to-Head
             Land
     switch
 
-8) Walking Forward & Backward
+12) Walking Forward & Backward
     Take off, 
     hover at 3 feet.
     Fly forward 5 feet.
