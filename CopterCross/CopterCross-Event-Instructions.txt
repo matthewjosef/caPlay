@@ -1,6 +1,15 @@
 Event Instructions
 
-Set Up
+(FACILITATION)
+Set Up 
+
+1) Space out and prepare team helipad areas (tape, tarps, linoleum)
+2) Prepare charging stations (for each team if possible)
+3) Post "Three Rules of CopterCross"
+4) Prepare and Group Flight Manuals and Quadcopters for Each Team
+
+===
+Laser Info
 -Maybe hand out laser pointers (with tripod, or weighted bases) that point straight up.  Giving teams a target to hit (or fly around) during skill building exercises (the light beam column).  Could even have tied to string or something so that they are spaced apart the right amount.  
 
 Five laser pointers per team.  Four Red. One Blue or Green.
@@ -21,23 +30,25 @@ http://www.ebay.com/itm/Utility-Green-Laser-Pointer-Copper-Pen-Beam-Light-5mW-La
 http://www.ebay.com/itm/Hot-Sale-5mw-650nm-Powerful-Military-Visible-Light-Beam-Red-Laser-Pointer-Pen-/331549265842?hash=item4d31e04fb2
 
 http://www.ebay.com/itm/Green-Laser-Pointer-Copper-Pen-Beam-Light-Beam-Light-Utility-High-Power-532nm-/191647854491?hash=item2c9f1a2f9b
+===
 
-====
-
-
+(FACILITATION)
 Guest Arrival
-
 
 Welcome
 
+(FACILITATION & FLIGHT MANUAL)
+Three Rules of CopterCross
 - First Rule of CopterCross: Breath.
-- Second Rule of CopterCross: Be Gentle and Slow. 
+- Second Rule of CopterCross: Be Gentle and Be Slow. 
 - Third Rule of CopterCross: Throttle down if you lose control
 
+(FACILITATION)
 1) Partner Up
    Instructions for how Pilot/Co-Pilot teams work together:
-   Co-Pilot reads instructions and acts as a second set of eyes.
-   Pilot flies Copter.
+   
+   - Co-Pilot reads instructions and acts as a second set of eyes.
+   - Pilot flies Copter.
    Each person will take turns playing both roles.
 
    Find a buddy team!
@@ -47,6 +58,7 @@ Welcome
 
    You will compete against them.  Then you will compete with them.
 
+(FACILITATION & FLIGHT MANUAL)
 2) INTRO TO THE EQUIPMENT
 
    QUADCOPTER
