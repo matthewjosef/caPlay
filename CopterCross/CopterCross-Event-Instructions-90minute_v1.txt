@@ -1,7 +1,12 @@
 Event Instructions
+
+Sixteen People
+90 Minutes
+
 ====
 Set Up
-  Power Strips
+  Tables (one per four person team)
+  Power Strips (in middle of table)
   Extension Cords
   Battery Charging Stations Set Up
   Tape on ground for Origins, Routes and Team Numbers
@@ -10,10 +15,10 @@ Set Up
   Batteries
   Co-Pilot Manuals
 
-          ____
-         /    \ 
-        |      |                  THE ISLAND
-         \____/
+           ____
+          /    \ 
+         |      |                  THE ISLAND
+          \____/
 
 
 
@@ -41,26 +46,185 @@ Set Up
               S
 
 
+****************************************************************************************
+FACILITATOR MANUAL
 
 GUEST ARRIVAL
+
 Welcome
+Intro to the Team
 
-- First Rule of CopterCross: Breath.
-- Second Rule of CopterCross: Be Gentle and Slow. 
-- Third Rule of CopterCross: THROTTLE DOWN if you lose control!
+Introduction to Collaborative Advantage
+  Our company focuses on empowering individuals and fostering collaboration in order to help our clients -- and the organizations that they are a part of -- to thrive.  
 
-1) Partner Up
-   Instructions for how Pilot/Co-Pilot teams work together:
-   1) Co-Pilot reads instructions and acts as a second set of eyes.
-   2) Pilot flies Copter.
+  Our work ranges from engaging events like this one -- to working with senior enterprise leaders to bring about organizational and cultural change -- to building protocols and applications that help communities self-regulate more effectively.
+
+  That last bit is the most abstract, but the goal can be summed up quite simply:
+  We believe that world doesn't currently have a functional global regulatory system.  Attempts to use traditional forms of "Big G" Government to solve our most complicated issues have proven ineffective.
+
+  Small groups have always "regulated" themselves a little differently.  Instead of laws and courts and prisons and all that, they use informal social norms and individual decisions about who to turn toward and who to turn away from.  These reputation based systems have had difficulty working in group sizes in the thousands, millions or billions, but we believe that information technology can change that.
+
+  We work -- alongside many others -- to build the tools that can enable functional peer-to-peer regulation to become the basis for a functional global regulatory system, in part because it doesn't force us to "agree about what is appropriate."  We are working to design and build these systems in ways that balance privacy and transparency with our focus on build "self-regulating" structures that mimic the patterns that have proven themselves in natural ecosystems.
+
+  That's all a mouth-full.  But I hope it gives you a sense of who we are, and why our work takes the form that it does.
+
+  In all of our work, we aim to be playful, thoughtful and fearless and we hope that you'll embrace that spirit as you tackle the challenge of flying Remote Control QuadCopters.
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATOR MANUAL
+
+Intro to the event
+  Today we are going to be:
+    1) Learning to Fly QuadCopters
+    2) In teams of two and four.
+    3) Collaboration and Competition will make the whole experience more fun -- and more effective
+    4) After you've gotten the hang of it, we are going to hold a tournament.
+       What kind of tournament?
+       A Full-Contact QuadCopter Obstacle Course Relay Race.
+       We call it Flight Club.
+
+  Does that sound good?
+  Good.
+
+  The day is going to look like this:
+  Intro
+  Team Formation
+  Skill Builders and Challenges
+  Four-Person Team Practice Runs
+  Flight Club
+
+
+PARTNERING UP
+   We are going to assign individuals to teams with playing cards
+
+   4 four-person teams = use Ace + 2, 3 and 4 of each suit.
+
+   Red Cards pair up.  
+   You are the Red Team.
+
+   Black Cards pair up.
+   You are the Black Team.
+
+   We have Eight two-person teams:
+   Red Aces, Black Aces, Red Twos, Black Twos etc.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+  SCHEDULE
+    Intro
+    Team Formation
+    Skill Builders and Challenges
+    Four-Person Team Practice Runs
+    Flight Club
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+1) PARTNERS
+   We will have 8 two-person teams:
+   RED ACES
+   BLACK ACES
+
+   RED TWOS
+   BLACK TWOS
+   
+   RED THREES
+   BLACK THREES
+   
+   RED FOURS
+   BLACK FOURS
+
+   Each two-person team will have two roles: Pilot and Co-Pilot
    Each person will take turns playing both roles.
 
-   Find a buddy team!
+   1) Co-Pilot reads instructions and acts as a second set of eyes.
+   2) Pilot flies Copter.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+   BUDDY TEAMS
+   RED ACES are BUDDY TEAMED with BLACK ACES.
+   RED TWO's are BUDDY TEAMED with BLACK TWO's.
+   etc.
+
    These are your go-to people for questions, problems etc.  
-   They will also be the first team that you compete against during your skill builder exercizes.
+   They will also be the main team that you compete against during your skill builder exercizes.
    Plus, during the main event, they are going to be your partners in the relay race.
 
-   You will compete against them.  Then you will compete with them.
+   You will compete against them.  
+   Then you will compete alongside them.
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATOR MANUAL
+
+Aces, come get your copters!
+  Hand them, copter, transmitter and flight manual
+
+Dueces, come get your copters!
+Threes...
+Fours...
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATOR MANUAL
+
+Open your Flight Manuals
+
+We have three rules in Flight Club.
+
+Say them with me:
+
+- The First Rule of Flight Club is:   Breathe.
+
+- The Second Rule of Flight Club is:  Be Gentle and Slow. 
+
+- The Third Rule of Flight Club is:   THROTTLE DOWN if you lose control!
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+- The First Rule of Flight Club is:   Breathe.
+
+- The Second Rule of Flight Club is:  Be Gentle and Slow. 
+
+- The Third Rule of Flight Club is:   THROTTLE DOWN if you lose control!
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATOR MANUAL
+
+INTRO TO THE EQUIPMENT
+  Open your flight manual to the equipment diagrams on page 5
+  
+  This is a transmitter.
+  (Hold up the transmitter)
+  
+  This is a QuadCopter.
+  (Hold up the QuadCopter)
+
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
 
 2) INTRO TO THE EQUIPMENT
 
@@ -91,49 +255,80 @@ Welcome
    6) Screen 
    etc.
 
+****************************************************************************************
+
+****************************************************************************************
+FACILITATOR MANUAL
+
+  Pick up your QuadCopter.
+  Is anything missing?
+
+  Yep.  The Rotors.  We need to put them on.
+  You should have 8 rotors on your side of your table: four with stripes and four without.  This gives you spares in case you crash and damage or lose rotor blades.  If you need extras, we have more up front.
 
 
-   ASSEMBLY: ROTOR GUARDS AND ROTORS
-
-   PUTTING ON THE ROTOR GUARD
-   With the rotors off of the QuadCopter, 
-
-   PUTTING ON ROTORS
+  BE CAREFUL PUTTING ON ROTORS.
    Half of the motors spin one way, and half spin the other way.
    We need to match blades to motors.
-   Some blades spin clockwise.  We've put one dot on those.
-   We've also put a dot on arms that have a clockwise spinning motor.
-   Put a blade with a dot on an arm with a dot.
+   Some blades spin clockwise.  We've put a stripe on those.
+   We've also put a stripe on arms that have a clockwise spinning motor.
 
-   Other blades spin counter clockwise, we've left those blank.
-   Put a blank blade on a blank arm.
+  Take two with stripes and put those on the two arms of the copter that have stripes.
+  You can put them on by lining up the metal pin on top of the moter with the hole in the bottom of the rotor.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+   ASSEMBLY: ROTORS
+
+   PUTTING ON ROTORS
+
+   1. Put a blade with a stripe onto an arm with a stripe.
+   2. Now do the same for the other arm with a stripe.
+   3. Attach two blank blades to the two blank arms.
 
    REMOVING A ROTOR
    Use the Rotor Removal tool to help pry a rotor off.  It is like a tiny crowbar.
-   Be careful not to damage the rotor.
+   Be careful not to damage the rotor or the motor pin.
 
+   Each of you should try it with a rotor.  
+   Then put the rotors back on.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
 
 3) SAFETY THIRD!
    BLADES 
    At these speeds, blades are sharp!
 
    Do not fly copter close to other people.  
+
    Do not try to pick up copter while blades are spinning.  
+   
    Do not try to catch copter in the air.  
+   
    Rotor guards help minimize the likelihood of injury
 
-          How to pick up a Copter without hurting it or yourself
+          PICK UP PROCESS
+          (or "How to pick up a Copter without hurting it or yourself")
+
           a) Pilot (P): Move throttle to the down position, then say: 
-                    ["THROTTLE DOWN"]
+                    "THROTTLE DOWN"
           
           b) P: Set down the controller, then say: 
-                    ["CONTROLLER DOWN"]
+                    "CONTROLLER DOWN"
           
           c) P: Take hands off controller, then say:
-                    ["GOOD TO GRAB"]
+                    "GOOD TO GRAB"
 
           d) Co-Pilot (CP): Say 
-                    ["GRABBING!]"
+                    "GRABBING!"
 
           e) CP: Grab QuadCopter BY THE BODY. 
                                        Not by the arms. 
@@ -904,6 +1099,7 @@ MC:
 
     Switch Pilot/Co-Pilot and repeat.
 
+
 19) Fly by Screen: Walking 
     First two times, PILOT is flying by screen, but can see Copter.
 
@@ -1030,5 +1226,26 @@ Best 2 out of 3
 4___________
 
 
+
+FLIGHT CLUB
+
+Welcome to FLIGHT CLUB. (might be the right name for a "Copter vs Copter" Full-Contact Race at the end)
+
+What are the rules of FLIGHT CLUB
+1. You do not talk about FLIGHT CLUB
+
+2. You do not talk about FLIGHT CLUB
+
+3. Someone reaches the finish line, crashes, runs out of batteries, yells stop, their flight is over.
+
+4. Two copters in a flight.
+
+5. One flight at a time.
+
+6. These flights are full-contact.  
+
+7. If you finish the race before the other team, you win.  If you can down the other copter -- and still fly -- you win.
+
+8. If it is your first time at flight club, YOU HAVE TO FLY.
 
 

@@ -904,6 +904,7 @@ MC:
 
     Switch Pilot/Co-Pilot and repeat.
 
+
 19) Fly by Screen: Walking 
     First two times, PILOT is flying by screen, but can see Copter.
 
