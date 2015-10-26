@@ -75,15 +75,10 @@ Welcome
    6) QC Power Cable
    7) Battery and Battery Cable
 
-<<<<<<< HEAD
    BATTERY CHARGING
    1) Battery Charger
    2) Green Bag of Charged Batteries
    3) Red Bag for uncharged (or under-charged) batteries
-=======
-   TRANSMITTER
-   (need a diagram. copy from instructions)
->>>>>>> origin/master
 
    CONTROLLER
    (need a diagram. copy from instructions) 
@@ -131,10 +126,10 @@ Welcome
           a) Pilot (P): Move throttle to the down position, then say: 
                     ["THROTTLE DOWN"]
           
-          b) P: Set down the transmitter, then say: 
-                    ["TRANSMITTER DOWN"]
+          b) P: Set down the controller, then say: 
+                    ["CONTROLLER DOWN"]
           
-          c) P: Take hands off transmitter, then say:
+          c) P: Take hands off controller, then say:
                     ["GOOD TO GRAB"]
 
           d) Co-Pilot (CP): Say 
@@ -150,7 +145,7 @@ Welcome
 
    Use the Battery Changing Cheat Sheet each time.
 
-   1) Turn Transmitter OFF
+   1) Turn Controller OFF
 
    2) DETACHING a battery from the QuadCopter
       A) Breath!
@@ -168,18 +163,14 @@ Welcome
       2) Be gentle.   If you are too rough here, you can bend the pins on the connection, thus breaking the quad copter, and disqualify your team from the race.
 
    BATTERY CHEAT SHEET
-   ( ) P: Controller OFF ["TRANSMITTER OFF"]
+   ( ) P: Controller OFF ["CONTROLLER OFF"]
    ( ) CP: Gently DETACH Battery cable ["DETACHED"]
    ( ) CP: Gently Remove Battery
-   ( ) CP: Connect Battery to Charger (or in RED BAG) ["CHARGING"]
+   ( ) CP: Place Battery on Charger (or in RED BAG) ["CHARGING"]
    ( ) CP: Extra Charged Batteries go in GREEN BAG.
-   ( ) P: Throttle Stick DOWN
-   ( ) P: Power ON Controller
    ( ) P: Gently CONNECT New Battery to Copter
    ( ) P: Place Battery in Copter
-   ( ) P: Twist and Tuck Cable Attachment ["BATTERY READY"]
-   ( ) P: Pairing: Beep, Red Light turns Green, 6 Copter lights lit steadily 
-  
+   ( ) P: Twist and Tuck Cable Attachment ["BATTERY READY"]     
 
 4) Language!
      Fun Drills for pilot/co-pilot communication
@@ -431,7 +422,6 @@ Co-Pilot is holding Flash Card:
 etc.
 
 
-<<<<<<< HEAD
 ****************
 *** CAN SKIP ***
 ****************
@@ -544,49 +534,6 @@ MC:
     Take off, reach 6 inches, hover, land (softly).  Repeat 3 times.
 
     Take off, reach 1 foot, hover, land (softly).  Repeat 3 times.
-=======
-6) Powering On and Syncing
- 
-   1) Throttle Stick DOWN
-   2) Power ON Controller
-   3) Gently CONNECT New Battery to Copter
-   4) Place Battery in Copter
-   5) Twist and Tuck Cable Attachment ["BATTERY READY"]
-   6) Pairing: 
-      - Beep
-      - Red Light turns Green
-      - Copter lights lit steadily 
-
-
-
-
-7) Trim Adjusment
-   (need a diagram. copy from instructions)
-   - Roll Trim (aileron trim) adjusts for left and right drift
-   - Pitch Trim (elevator trim) adjusts for forward and backward drift
-   - Yaw Trim (rudder trim) adjusts for rotational drift
-   - Trottle Trim normally left at neutral. Lower trim turns LEDs on/off
-
-6) Crawling
-    Rotating on the ground, without leaving the ground. Repeat 3 Times.
-    Forward, then back to origin, without leaving the ground. Repeat 3 Times.
-    Backward, then back to origin, without leaving the ground. Repeat 3 Times.
-    Right, then back to origin, without leaving the ground. Repeat 3 Times.
-    Left, then back to origin, without leaving the ground. Repeat 3 Times.
-
-Skill Builder Head-to-Head
-    Compete with 
-
-7) Baby Steps
-    Take off, reach 3 inches, hover, land.  Repeat 3 times.
-    switch
-
-    Take off, reach 6 inches, hover, land.  Repeat 3 times.
-    switch
-
-    Take off, reach 1 foot, hover, land.  Repeat 3 times.
-    switch
->>>>>>> origin/master
 
     Take off, reach 3 feet, hover, land (softly).  Repeat 3 times.
 
@@ -834,19 +781,8 @@ MC:
     EAST
       ORIGIN
 
-<<<<<<< HEAD
     YAW LEFT to face NORTH
     Land softly
-=======
-15) Walking with Scissors: Flips
-   Press Elevator stick down to enter Expert Mode
-   Press the Throttle stick to enter Flip Mode (two beeps). Push again to exit (one beep).
-   
-   Left Flip: Quickly push Aileron stick fully to right -- then fully to left. Release stick.
-   Right Flip: Quickly push Aileron stick fully to left -- then fully to left. Release stick.
-   Forwad Flip: Quickly push Elevator stick fully backward -- then fully forward. Release stick.
-   Backward Flip: Quickly push Elevator stick fully forward -- then fully backward. Release stick.
->>>>>>> origin/master
 
 
 MC: 
@@ -967,6 +903,7 @@ MC:
     Repat Two more times WITHOUT BEING ABLE TO SEE THE COPTER.
 
     Switch Pilot/Co-Pilot and repeat.
+
 
 19) Fly by Screen: Walking 
     First two times, PILOT is flying by screen, but can see Copter.

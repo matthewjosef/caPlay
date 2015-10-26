@@ -1,0 +1,1363 @@
+Event Instructions
+
+
+Sixteen People
+120 Minutes
+
+
+===============
+TIMING (minutes)
+
+3   WELCOME AND INTRO
+3   SCHEDULE AND TEAM FORMATION
+14  EQUIPMENT HANDOUT AND INTRO
+3   SAFETY
+1   THE PICKUP ARTIST (could be one minute -- lose the voice commands)
+5   VOCAB, FLASH CARDS + BE THE COPTER
+3   PRE-FLIGHT + BIND
+2   TRIM ADJUSTMENT
+
+7   SKILL BUILDER: CRAWLING
+7   SKILL BUILDER: VERTICAL FLIGHT
+7   SKILL BUILDER: FORWARD, BACKWARD and SIDE-to-SIDE
+5   BUDDY CHALLENGE 1: FLYING
+
+================
+
+7   SKILL BUILDER: PITCHING, CRAWLING             
+7   SKILL BUILDER: NOSE-IN, CRAWLING
+7   SKILL BUILDER: NOSE-IN, FLYING
+5   BUDDY CHALLENGE 2: ALL DIRECTIONS
+
+7   SKILL BUILDER: BANKING, CRAWLING      
+7   SKILL BUILDER: BANKING, FLYING       
+
+10  PRACTICE
+
+8   FLIGHT CLUB
+2   Celebration + Goodbye
+
+
+==========
+
+POSTERS
+THREE TIPS (BREATHE etc)
+
+PICKUP ARTIST
+
+
+Front Cover should have
+Diagrams of Copter and Transmitter
+
+Rear cover should have:
+BATTERY CHEAT SHEET
+PRE-FLIGHT CHECK
+POWERING ON and BINDING
+
+THE RULES OF FLIGHT CLUB
+
+
+====
+Set Up
+  Tables (four people per table)
+  Lay out Playing Cards to mark tables 
+  (Buddy Teams should be on adjacent tables on the same side)
+  Tape on ground for Origins, Routes and Team Numbers
+
+  Power Strips (in middle of table)
+  Extension Cords
+  Battery Charging Stations Set Up
+
+  Copters,
+  Transmitters,
+  Batteries
+  Co-Pilot Manuals
+
+
+           ____
+          /    \ 
+         |      |                  THE ISLAND
+          \____/
+
+
+
+
+
+
+                                  distance - 10 feet from N
+
+
+
+
+
+             N
+
+
+     NW              NE 
+
+
+  W        ORIGIN         E       THE COMPASS
+                                  (diameter - 6 feet)
+
+     SW              SE
+
+
+              S
+
+
+****************************************************************************************
+FACILITATION MANUAL
+
+GUEST ARRIVAL (3)
+
+Welcome
+Intro to the Team
+
+
+Introduction to Collaborative Advantage
+  Our company focuses on empowering individuals and fostering collaboration in order to help our clients -- and the organizations that they are a part of -- to thrive.  
+
+  Our work ranges from 
+  -- fun events like this one 
+  -- to working with senior enterprise leaders to bring about organizational and cultural change 
+  -- mapping out and building Protocols and Applications that can serve as a functional global regulatory system.
+
+  So with the intro behind us... lets dive into the fun.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+Intro to the event (1)
+  Today we are going to be:
+    1) Learning to Fly Copter's
+    2) In teams of two and four.
+    3) Collaboration and Competition will make the whole experience more fun -- and more effective
+    4) After you've gotten the hang of it, we are going to hold a tournament.
+       What kind of tournament?
+       A Full-Contact QuadCopter Obstacle Course Relay Race.
+       We call it Flight Club.
+
+  Does that sound good?
+  Good.
+
+  The day is going to look like this:
+  Intro
+  Team Formation
+  Skill Builders and Challenges
+  Practice Runs
+  Flight Club
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+PARTNERING UP (2)
+   We are going to assign individuals to teams with playing cards
+
+   4 four-person teams = use Ace + 2, 3 and 4 of each suit.
+
+   Red Cards pair up.  
+   You are the Red Team.
+
+   Black Cards pair up.
+   You are the Black Team.
+
+   We have Eight two-person teams:
+   Red Aces, Black Aces, Red Twos, Black Twos etc.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+   Each two-person team will have two roles: Pilot and Co-Pilot
+   Each person will take turns playing both roles.
+
+   1) Co-Pilot reads Route instructions out loud and acts as a second set of eyes.
+   2) Pilot flies Copter.
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+   BUDDY TEAMS
+   RED ACES are BUDDY TEAMED with BLACK ACES.
+   RED TWO's are BUDDY TEAMED with BLACK TWO's.
+   etc.
+
+   These are your go-to people for questions, problems etc.  
+   They will also be the team that you compete against during your skill builder exercizes.
+   Plus, during the main event, they are going to be your partners in the relay race.
+
+   You will compete against them.  
+   Then you will compete alongside them.
+
+
+****************************************************************************************
+FACILITATION MANUAL
+
+EQUIPMENT HANDOUT (3)
+
+Aces, come get your copters!
+  Hand RED team copter, transmitter and flight manual
+  Hand Black team copter, transmitter and flight manual
+
+Dueces, come get your copters!..
+Threes...
+Fours...
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+EVENT SCHEDULE
+  Intro
+  Team Formation
+  Skill Builders and Challenges
+  Practice 
+  Flight Club
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+2) EQUIPMENT: TRANSMITTER KEY COMPONENTS (1)
+
+  We'll start by introducing you to the equipment.  
+
+  This is a transmitter.
+  (Hold up the transmitter)
+
+  Open your flight manual to the transmitter diagram on page 2
+
+  Let's walk through the sticks:
+
+ 
+   1) Throttle/Rudder Stick (L)
+
+   2) Elevator/Aileron Stick (R)
+
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+2) EQUIPMENT
+   INTRO TO THE TRANSMITTER
+   KEY COMPONENTS
+
+   1) Throttle/Rudder Stick
+   2) Elevator/Aileron Stick
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+  Now turn to page 3 (1)
+
+  Let's walk through the other transmitter components:
+
+  - Power Switch
+  - Record Button
+  - LCD
+  - Trim Buttons 
+
+  Power turns the transmitter on and off
+  LCD is the Screen
+  Record allows you to record video from the copter cam
+  Trim lets you make adjustments to balance to copter.  More on that later.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+2) EQUIPMENT
+   INTRO TO THE OTHER TRANSMITTER COMPONENTS
+   
+IMAGE: Transmitter-Buttons.psd
+   
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+INTRO TO THE COPTER (2)
+  Open your flight manual to the Copter diagram on page 4
+  
+  This is one of the Copters that we are going to be flying today.
+  (Hold up the Copter)
+
+  Point out the:
+   1) Body
+   2) Arms
+   3) Motors
+   4) Rotor Guard
+   5) Rotors
+   6) Power Cable
+
+   Note: there is no power switch on the copter.  You plug and unplug the battery.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+2) EQUIPMENT
+   Copter.
+   
+   IMAGE: Copter.psd
+
+   1) Body
+   2) Arms
+   3) Motors
+   4) Rotor Guard
+   5) Rotors
+   6) Power Cable
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+  EQUIPMENT: ROTORS (3)
+
+  Pick up your Copter.
+  Is anything missing?
+
+  Yep.  The Rotors.  We need to put them on.
+  You should have 8 rotors on your side of your table: four with dots and four without.  This gives you spares in case you crash and damage or lose rotor blades.  If you need extras, we have more up front.
+
+
+  BE CAREFUL PUTTING ON ROTORS.
+  Half of the motors spin one way, and half spin the other way.
+  We need to match rotors to motors.
+
+  Take two rotors with dots and put those on the two arms of the copter that have dots.
+
+  Attaching a Rotor
+  Line up the metal pin on top of the motor with the hole in the bottom of the rotor. 
+
+  REMOVING ROTORS
+  Use the Rotor Tool (it looks like a tiny crowbar) to remove a rotor.
+  (demonstrate rotor removal)
+
+  Each of you should practice by removing a couple of rotors and putting them back on.
+
+  Keep the Rotor Tool near your battery charging station so it is easy to find.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+2) EQUIPMENT
+   ROTORS
+
+   !!!  ALWAYS UNPLUG THE BATTERY OR PUT THE TRANSMITTER DOWN BEFORE ATTACHING OR REMOVING ROTORS  !!!
+
+   IMAGE: Rotors.psd
+
+   ATTACHING ROTORS
+   Press Rotor onto Motor Pin, but don't push too hard.  
+   We want a 2 mm gap above the rotor guard.
+   Dots go with dots.
+
+
+   IMAGE: Rotor-wrench.psd
+
+   REMOVING ROTORS
+   Use the Rotor Removal tool to help pry a rotor off.  It is like a tiny crowbar.
+   Be careful not to damage the rotor or the motor pin.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+2) EQUIPMENT: ARMS (1)
+
+   !!!  ALWAYS UNPLUG THE BATTERY OR PUT THE TRANSMITTER DOWN BEFORE ATTACHING OR REMOVING ROTORS  !!!
+
+   After a crash, the arms may separate.  As part of our pre-flight inspection, we check for any detached arms.  A copter with a detached arm will fly erratically.
+
+   They can be fixed by turning the copter over onto its back, and pressing the arm back into place.
+
+   IMAGE: Arms.psd
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+  EQUIPMENT: BATTERIES (3)
+
+   Batteries only last for 5-9 minutes of flight time.
+   You will have to change batteries repeatedly during this exercise.
+
+
+   1) Pilot:      Turn Transmitter OFF, then say "TRANSMITTER OFF"
+
+   2) Co-Pilot:   DETACHING a battery from the Copter.
+      [ ] Breath!
+
+      [ ] Be gentle!  If you are too rough here, you can strip the connector off of the 
+          electrical wires, thus breaking the Copter. and disqualifying your team from the race.
+      
+      [ ]  Pinch on the edges of the connection and carefully pull the connection apart.
+
+   3) Co-Pilot:   Place used battery in the RED BAG.
+
+   4) Co-Pilot:   Take one FULLY CHARGED battery out of the green bag and slide it into the Copter.
+
+   6) Wait to connect battery until after pre-flight check.
+
+   THROUGHOUT THE EVENT, WE WILL BE COLLECTING AND CHARGING BATTERIES
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+   BATTERY CHEAT SHEET
+   [ ] P: "TRANSMITTER OFF"
+
+   [ ] CP: "DETACHED"
+
+   [ ] CP: Remove Battery
+   
+   [ ] CP: Place Used Battery in Red Bag
+   
+   [ ] P:  Put New Battery (from Green Bag) into Copter
+   
+   [ ] P:  "BATTERY READY"
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+3) SAFETY THIRD: FIRE (1)
+   
+   FIRE
+   Our Copters use LI-PO (Lithium Polymer) batteries.  These batteries have high power relative to their weight, but are more volatile than normal batteries.
+
+   The chances are slim, but it is possible for them to catch fire while charging or as a result of a crash.
+
+   If there is a fire -- 
+   1) DO NOT PUT WATER ON THE FIRE!
+
+   2) Yell "FIRE!"
+
+   3) Our staff will use a Chemical Fire Extinguisher to put out the fire.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+3) SAFETY THIRD!
+   
+   FIRE
+   In case a Li-Po (Lithium Polymer) battery catches fire: 
+
+   1) DO NOT PUT WATER ON THE FIRE!
+
+   2) Yell FIRE!
+
+   3) Our staff will use a Fire Extinguisher.
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+3) SAFETY THIRD: BLADES (1)
+
+   BLADES 
+   At these speeds, blades are sharp!
+
+   Do not fly copter close to other people.  
+
+   Do not try to pick up copter while blades are spinning.  
+   
+   Do not try to catch copter in the air.  
+   
+   Rotor guards help minimize the likelihood of injury
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+3) SAFETY THIRD!
+
+   BLADES 
+   At these speeds, blades are sharp!
+   Rotor guards help minimize the likelihood of injury.  Keep them on.
+
+   DO NOT:
+      - fly copter close to other people.  
+      
+      - pick up copter while blades are spinning.  
+   
+      - catch copter in the air.  
+   
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+3)THE PICK UP ARTIST
+          Make sure the Pilot has the throttle down and is not going to spin the rotors.
+          Pick up a copter by grabbing the body
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+          THE PICK UP ARTIST CHEAT SHEET
+
+          [ ] P:  "THROTTLE DOWN"
+          
+          [ ] P:  "GOOD TO GRAB" 
+
+          [ ] CP: "GRABBING!"
+
+          [ ] CP: Grab Copter BY THE BODY
+                              NOT THE ARM
+                              NOT THE ROTOR
+                                       
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+4) VOCAB (2)
+
+    Next up is Vocab,
+    also known as Language, people!
+    This is our intro To Vocab
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+4) Language, people!
+
+YAW RIGHT         -   Rotate Clockwise 
+YAW LEFT          -   Rotate Counter Clockwise
+
+PITCH FORWARD     -   Forward 
+PITCH BACKWARD    -   Backward
+
+ROLL RIGHT        -   Move Right 
+ROLL LEFT         -   Move Left
+
+UPLIFT            -   Fly Up
+DOWNFALL          -   Fly Down
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+  BE THE COPTER (3)
+       Next up is Pilot / Co-Pilot practice
+       Builds intuitive understanding of transmitter controls and copter movements
+       Reinforces language lessons
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+5) Be the Copter
+
+
+FLASH CARDS
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+Everytime we get ready to fly, we need to do a quick Pre-Flight Inspection
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+7) Pre-Flight Inspection (2)
+    [ ]   P:  "Transmitter Off"
+    [ ]   CP: "Arms Check" 
+    [ ]   CP: "Rotors Check" (no broken parts, hair etc)
+    [ ]   CP: "Rotor Guard Check" (if guard is blocking a prop, bend it out to unblock)
+    [ ]   CP: "Ready to Fly"
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+Then we need to Power On and Bind to the copter
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+8) Powering On and Binding (1)
+    [ ]   P:  Turn on Transmitter (will read "Bind to Plane")
+    [ ]   P:  "Throttle Down"
+    [ ]   CP: Attach Copter Battery (CAREFUL! DON'T DAMAGE PINS!)
+              Transmitter should beep and display copter cam on LCD
+    [ ]   CP: Secure Battery and Battery Cable ("twist and tuck")  
+    [ ]   P:  say "Ready to Fly"
+                                                                                                                                                                                                                                       a
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+On the back cover, we've included:
+The Battery Cheat Sheet
+The Pre-Flight Checklist and
+The Binding Checklist
+
+I recommend you use it every time.  We are short on time. 
+These checklists help you do it right, faster.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+9) Trim Adjustment (2)
+   - Power Throttle SLIGHTLY
+   - Observe any drift in the copter
+   - Use the Trim Buttons to adjust:
+        - Yaw (adjusts rotation)
+        - Pitch (adjust front/back drift)
+        - Roll (adjusts sideways drift)
+
+  IMAGE: Transmitter_other_components.psd
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+9) Trim Adjustment
+   - Hold Elevator Down
+   - Power Throttle SLIGHTLY
+   - Observe any drift in the copter
+   - Use the Trim Buttons to adjust:
+        - Yaw (adjusts rotation)
+        - Pitch (adjust front/back drift)
+        - Roll (adjusts sideways drift)
+
+  IMAGE: Transmitter_other_components.psd
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+BEFORE WE FLY, We have three quick tips.
+
+Say them with me:
+
+              Breathe.
+
+              Be Gentle and Slow. 
+
+              THROTTLE DOWN if you lose control!
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+              Breathe.
+              
+              Be Gentle and Slow. 
+              
+              THROTTLE DOWN if you lose control!
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+SKILL BUILDERS
+
+We are going to do a series of skill building exercises that will build up your Copter. Skillset step-by-step.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+SKILL BUILDERS
+
+For each skill builder:
+Work as a Pilot/Co-Pilot team.
+Co-Pilot guides Pilot through the route with verbal commands.
+Pilot flies the copter.
+Run through each step.
+Repeat route 2 more times.
+Then, switch Pilot/Co-Pilot and repeat the exercise.
+After, we will hold a quick head-to-head challenge with your buddy team.
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+10) SKILL BUILDER: Crawling
+    
+    One of our principles for innovation and mastery is:
+    Constrain the size of risks so you become free to take risks.
+
+    In that spirit, we are going to start out by practicing new skills by piloting the copter without leaving the ground.
+
+    Remember, Co-Pilot guides Pilot through the exercize with verbal commands. 
+    Repeat the route three times
+    Then switch Pilot/Co-Pilot and Repeat
+
+    You have 8 minutes to each complete three practice runs.
+    Then we will do a buddy team challenge.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+
+10) SKILL BUILDER: Crawling
+    Complete this route WITHOUT LEAVING THE GROUND.
+
+    Run route three times
+    then switch roles and repeat
+
+    START:  At ORIGIN               facing NORTH
+            YAW RIGHT               360 degrees              
+              
+            PITCH FORWARD     to    NORTH 
+            PITCH BACKWARD    to    ORIGIN
+              
+            ROLL RIGHT        to    EAST
+            ROLL LEFT         to    ORIGIN 
+  
+            PITCH BACKWARD    to    SOUTH
+            PITCH FORWARD     to    ORIGIN 
+  
+            ROLL LEFT         to    WEST
+            ROLL RIGHT        to    ORIGIN 
+  
+            PITCH FORWARD     to    NORTH
+  
+            PITCH AND ROLL    to    WEST
+            PITCH AND ROLL    to    SOUTH
+            PITCH AND ROLL    to    EAST
+            PITCH AND ROLL    to    NORTH
+  
+            PITCH BACKWARD    to    ORIGIN
+
+            YAW LEFT                360 degrees
+    FINISH: At ORIGIN               facing NORTH       
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES"
+
+11) SKILL BUILDER: Vertical Flight
+  
+    This next Skill Builder will get us started with vertical flight.
+    Don't worry too much if the copter drifts a bit.  
+    Just focus on getting to your target height, hovering and then landing softly.
+
+    You have 8 minutes to complete this skill builder.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+11) SKILL BUILDER: Vertical Flight
+
+    Run route three times
+    then switch roles and repeat
+
+    START:  At ORIGIN               facing NORTH     
+            UPLIFT            to    3 inches          hover    
+            DOWNFALL          to    soft landing    
+  
+            UPLIFT            to    6 inches          hover    
+            DOWNFALL          to    soft landing    
+  
+            UPLIFT            to    1 foot            hover    
+            DOWNFALL          to    soft landing    
+  
+            UPLIFT            to    3 feet            hover    
+            DOWNFALL          to    soft landing    
+  
+            UPLIFT            to    6 feet            hover    
+            DOWNFALL          to    soft landing    
+  
+            UPLIFT            to    6 feet            hover 
+              
+            DOWNFALL          to    3 feet            hover 
+              
+            DOWNFALL          to    1 foot            hover
+              
+            DOWNFALL          to    6 inches          hover
+              
+            DOWNFALL          to    3 inches          hover
+            
+    FINISH: DOWNFALL          to    soft landing
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES"
+
+
+12) SKILL BUILDER: Flying Forward, Backward and Side-to-Side
+  
+    This next Skill Builder will get us started with Pitching Forward and Backward and  while flying.
+
+    You have 6 minutes to complete this skill builder.
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+12) SKILL BUILDER: Flying Forward, Backward and Side-to-Side
+    
+    Run route three times
+    then switch roles and repeat
+
+    START:  At ORIGIN               facing NORTH     
+            UPLIFT            to    3 feet            hover
+            PITCH FORWARD     to    NORTH             hover              
+            PITCH BACKWARD    to    ORIGIN            hover
+            DOWNFALL          to    LAND at ORIGIN  
+                  
+            UPLIFT            to    3 feet            hover   
+            PITCH BACKWARD    to    SOUTH             hover
+            PITCH FORWARD     to    ORIGIN            hover
+            DOWNFALL          to    LAND at ORIGIN 
+      
+            UPLIFT            to    3 feet            hover
+            ROLL LEFT         to    WEST              hover              
+            ROLL RIGHT        to    ORIGIN            hover
+            DOWNFALL          to    LAND at ORIGIN  
+                  
+            UPLIFT            to    3 feet            hover              
+            ROLL RIGHT        to    EAST              hover              
+            ROLL LEFT         to    ORIGIN            hover              
+            DOWNFALL          to    LAND at ORIGIN
+
+            UPLIFT              to    6 Feet
+            PITCH FORWARD       to    NORTH
+            PITCH AND ROLL      to    WEST
+            PITCH AND ROLL      to    SOUTH
+            PITCH AND ROLL      to    EAST
+            PITCH AND ROLL      to    NORTH
+            PITCH BACKWARD      to    ORIGIN
+    FINISH: DOWNFALL TO LAND    at    ORIGIN facing NORTH
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+13) BUDDY CHALLENGE 1: Flying 
+
+    Compete against your buddy team.  
+
+    Fly route once, 
+    switch Pilot / Co-Pilot
+    Fly route again.
+    First Team to finish wins the challenge
+    Mark Winner on Challenge Board
+
+
+MC: 
+"TEAMS, YOU HAVE 90 SECONDS TO PREP YOUR BATTERIES, PLACE YOUR DRONES AND STUDY YOUR ROUTE"
+(wait 80 seconds)
+give warnings at 1 minute and 30 seconds
+
+"10, 9, 8, 7, 6, 5 4, 3, 2, 1, GO!""  
+
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+13) BUDDY CHALLENGE 1: Flying
+    Compete against your buddy team.  
+
+    Fly route once, 
+    switch Pilot / Co-Pilot
+    Fly route again.
+    First Team to finish wins the challenge
+    Mark Winner on Challenge Board
+
+
+    CHALLENGE ROUTE
+    START:  At ORIGIN                 facing NORTH
+            UPLIFT              to    3 Feet
+            PITCH FORWARD       to    NORTH
+            PITCH BACKWARD      to    ORIGIN
+            ROLL RIGHT          to    EAST
+            ROLL LEFT           to    ORIGIN
+            PITCH BACKWARD      to    SOUTH
+            PITCH FORWARD       to    ORIGIN
+            ROLL LEFT           to    WEST
+            ROLL RIGHT          to    ORIGIN
+
+            UPLIFT              to    6 Feet
+            PITCH FORWARD       to    NORTH
+            PITCH AND ROLL      to    WEST
+            PITCH AND ROLL      to    SOUTH
+            PITCH AND ROLL      to    EAST
+            PITCH AND ROLL      to    NORTH
+            PITCH BACKWARD      to    ORIGIN
+    FINISH: DOWNFALL TO LAND    at    ORIGIN facing NORTH
+
+***************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES"
+
+
+14) Rotating and Flying in all directions
+    NOTE: When the nose is facing towards pilot:
+      Right will be left. 
+      Backwards will be forwards.
+      TIP: Think about the controls from the perspective of the copter.
+
+    Part 1 is going to be another crawling exercise.  
+    Perform this route WITHOUT LEAVING THE GROUND
+
+    You have 6 minutes.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+SKILL BUILDER: PITCHING IN ALL DIRECTIONS
+PART 1: CRAWLING
+
+    Run route three times
+    then switch roles and repeat
+
+    Perform the following route WITHOUT LEAVING THE GROUND:
+
+      START:  ORIGIN                  facing NORTH
+
+              YAW LEFT          to    face NORTH-WEST
+              PITCH FORWARD     to    NORTH-WEST
+              PITCH BACKWARD    to    ORIGIN
+    
+              YAW RIGHT         to    face NORTH-EAST
+              PITCH FORWARD     to    NORTH-EAST
+              PITCH BACKWARD    to    ORIGIN
+      
+              YAW LEFT          to    face SOUTH-WEST
+              PITCH FORWARD     to    SOUTH-WEST
+              PITCH BACKWARD    to    ORIGIN
+                  
+              YAW RIGHT         to    face SOUTH-EAST
+              PITCH FORWARD     to    SOUTH-EAST
+              PITCH BACKWARD    to    ORIGIN
+
+      FINISH: YAW LEFT          to    face NORTH
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES, PLACE YOUR DRONES AND STUDY THE NEXT SKILL BUILDER ROUTE."
+
+Now we are starting to play with flying with the Copter. not facing forward.
+The next skillbuilders will expand on that a bit.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+SKILL BUILDER: NOSE-IN
+PART 1: CRAWLING
+
+    REMINDER: When the nose is facing towards pilot:
+    Right will be left.
+    Backwards will be forwards.
+    Think about the controls from the perspective of the copter.
+
+
+    Run route three times
+    then switch roles and repeat
+
+    Perform the following route WITHOUT LEAVING THE GROUND:
+
+      START:  At ORIGIN               facing NORTH
+              YAW RIGHT         to    face SOUTH
+                
+              PITCH FORWARD     to    SOUTH
+              PITCH BACKWARD    to    ORIGIN
+                
+              ROLL RIGHT        to    WEST
+              ROLL LEFT         to    EAST
+              ROLL RIGHT        to    ORIGIN
+
+              PITCH BACKWARD    to    NORTH
+
+              PITCH AND ROLL    to    EAST
+              PITCH AND ROLL    to    SOUTH
+              PITCH AND ROLL    to    WEST
+              ROLL LEFT         to    ORIGIN
+
+              YAW LEFT          to    Face SOUTH-EAST
+
+              PITCH FORWARD     to    SOUTH-EAST
+              PITCH BACKWARD    to    NORTH-WEST
+              PITCH FORWARD     to    ORIGIN
+                
+              ROLL RIGHT        to    SOUTH-WEST
+              ROLL LEFT         to    NORTH-EAST
+              ROLL RIGHT        to    ORIGIN
+          
+      FINISH: YAW LEFT          to    face NORTH
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES."
+
+Its easy to get turned around on this one. 
+Remember:
+Breathe.
+Be Gentle and Slow.
+Throttle down, if you lose control.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+   NOSE-IN PART 2: FLYING
+
+    Run route three times
+    then switch roles and repeat
+
+      START:  At ORIGIN               facing NORTH
+              UPLIFT            to    3 Feet
+
+              YAW RIGHT         to    face SOUTH
+                
+              PITCH FORWARD     to    SOUTH
+              PITCH BACKWARD    to    ORIGIN
+                
+              ROLL RIGHT        to    WEST
+              ROLL LEFT         to    EAST
+              ROLL RIGHT        to    ORIGIN
+
+              PITCH BACKWARD    to    THE ISLAND
+
+              PITCH AND ROLL    to    EAST
+              PITCH AND ROLL    to    SOUTH
+              PITCH AND ROLL    to    WEST
+              ROLL LEFT         to    ORIGIN
+
+              YAW LEFT          to    Face SOUTH-EAST
+
+              PITCH FORWARD     to    SOUTH-EAST
+              PITCH BACKWARD    to    NORTH-WEST
+              PITCH FORWARD     to    ORIGIN
+                
+              ROLL RIGHT        to    SOUTH-WEST
+              ROLL LEFT         to    NORTH-EAST
+              ROLL RIGHT        to    ORIGIN
+          
+              YAW LEFT          to    face NORTH
+
+      FINISH: DOWNFALL          to    Land Softly
+
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+It's time for Buddy Challenge #2.
+
+Run the route.  Switch roles. Run it again.  First team to finish wins.
+
+MC: 
+"TEAMS, YOU HAVE 90 SECONDS TO PREP YOUR BATTERIES, PLACE YOUR DRONES AND STUDY THE CHALLENGE ROUTE."
+(wait 80 seconds)
+
+"10, 9, 8, 7, 6, 5 4, 3, 2, 1, GO!""
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+16) BUDDY CHALLENGE 2: Flying in all directions
+    Compete against your buddy team.  
+
+    Fly route once, 
+    switch Pilot / Co-Pilot
+    Fly route again.
+    First Team to finish wins the challenge
+    Mark Winner on Challenge Board
+
+   CHALLENGE ROUTE
+    START:  At ORIGIN                 facing NORTH
+            UPLIFT              to    3 Feet
+
+            PITCH FORWARD       to    THE ISLAND
+            PITCH AND ROLL      to    WEST
+            PITCH AND ROLL      to    SOUTH
+            PITCH AND ROLL      to    EAST
+            PITCH AND ROLL      to    NORTH
+            PITCH BACKWARD      to    ORIGIN
+
+            UPLIFT              to    6 Feet
+
+            YAW RIGHT           to    Face SOUTH-EAST
+            PITCH AND ROLL      to    NORTH
+            ROLL RIGHT          to    WEST
+            PITCH FORWARD       to    SOUTH
+            PITCH AND ROLL      to    ORIGIN
+
+            YAW RIGHT           to    Face SOUTH
+            PITCH BACKWARD      to    THE ISLAND
+            PITCH AND ROLL      to    EAST
+            PITCH AND ROLL      to    SOUTH
+            PITCH AND ROLL      to    WEST
+
+            YAW LEFT            to    Face EAST
+            PITCH FORWARD       to    ORIGIN
+            ROLL LEFT           to    NORTH
+            ROLL RIGHT          to    SOUTH
+
+            YAW RIGHT           to    Face NORTH
+            PITCH FORWARD       to    ORIGIN
+
+    FINISH: DOWNFALL            to    LAND at ORIGIN facing NORTH
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+So far, we've been flying in straight lines.  It's time to change that.
+
+Banking involves using YAW, in combination with PITCHING (and/or ROLLING) to allow you to fly a curved path.
+It is really useful for flying around things at speed.
+
+We're going to start out on the ground to learn the motions.
+
+    3 Parts to banking:
+      1) HOLD ELEVATOR UP
+      2) APPLY SOME THROTTLE
+      3) YAW LEFT OR RIGHT TO BANK
+
+   Spend a minute getting a feel for this, then we'll run another Skill Builder.
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+    3 Parts to BANKING:
+      1) HOLD ELEVATOR UP
+      2) APPLY SOME THROTTLE
+      3) YAW LEFT OR RIGHT TO BANK
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES"
+
+16) Banking Part 1: Crawling
+
+    Part 1 is going to be another crawling exercise.  
+    Perform this route WITHOUT LEAVING THE GROUND
+
+    You have 6 minutes
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+SKILL BUILDER: BANKING
+Part 1: Crawling Figure 8's
+
+    Run route three times
+    then switch roles and repeat
+
+    Perform the following route WITHOUT LEAVING THE GROUND:
+
+    START:  At ORIGIN        Facing      NORTH
+            PITCH FORWARD    toward      THE ISLAND
+            BANK LEFT        to the      LEFT SIDE of THE ISLAND
+            BANK RIGHT       around      THE ISLAND
+
+            PITCH FORWARD    toward      WEST
+            BANK LEFT        around      ORIGIN
+            
+            repeat 2 more times
+            After third figure 8
+
+    FINISH: PITCH BACKWARD   to          ORIGIN
+
+   switch and repeat
+
+****************************************************************************************
+
+****************************************************************************************
+FACILITATION MANUAL
+
+
+16) Banking Part 2: Flying Figure 8's
+
+    This is going to be THE SAME ROUTE, BUT 6 FEET OFF THE GROUND 
+
+    You'll have 6 minutes
+
+MC: 
+"TEAMS, YOU HAVE 30 SECONDS TO PREP YOUR BATTERIES"
+
+****************************************************************************************
+
+****************************************************************************************
+FLIGHT MANUAL
+
+SKILL BUILDER: BANKING
+Part 2: Flying Figure 8's
+
+    START:  At ORIGIN        Facing      NORTH
+            UPLIFT           to          6 feet
+            PITCH FORWARD    toward      THE ISLAND
+            BANK LEFT        to the      LEFT SIDE of THE ISLAND
+            BANK RIGHT       around      THE ISLAND
+
+            PITCH FORWARD    toward      WEST
+            BANK LEFT        around      ORIGIN
+            
+            repeat 2 more times
+            After third figure 8
+
+    FINISH: Return           to          ORIGIN
+
+    switch and repeat
+
+
+21) Obstacle Course Practice Runs
+    Pilot
+    Co-Pilot
+    Pit Crew
+
+    CO-PILOTS AND PIT CREW CAN SEE AND SPEAK. 
+
+
+
+22) The Main Event!
+Four teams with four people each.
+
+
+Best 2 out of 3
+
+1 __________            Winner___________
+
+2 __________    
+                                              Winner ________________ 
+
+
+3___________            Winner___________
+
+4___________
+
+
+
+FLIGHT CLUB
+
+The rules of FLIGHT CLUB
+
+1. You do not talk about FLIGHT CLUB
+
+2. You do not talk about FLIGHT CLUB
+
+3. The flight isn't over until someone crosses the finish line.
+
+4. This is a relay race.  Each Team member must play each role for one portion of the course: Pilot, Co-Pilot, Pit Crew Lead, Pit Crew Backup.
+
+5. This flight is full-contact. If you get beat up or knocked down, get back up, dust yourself off, slap on a new rotor or a new battery and get on with it.  
+
+6. The first team to accomplish all obstacles and land in the "winners circle" wins.
+
+7. Your copter is free to crash into other copters. Your pit crew is not.
+
+8. If it is your first time at flight club, YOU HAVE TO FLY.
+
+
+
